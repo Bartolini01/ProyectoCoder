@@ -7,3 +7,6 @@ admin.site.register(Linea)
 
 admin.site.register(Celular)
 # Register your models here.
+
+admin.site.register(Avatar)
+
